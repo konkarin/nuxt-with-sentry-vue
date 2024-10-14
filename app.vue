@@ -4,6 +4,6 @@
 
 <script setup>
 const causeError = () => {
-  throw new Error('omg');
+  throw new Error("error occured!");
 };
 </script>
